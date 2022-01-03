@@ -1,0 +1,15 @@
+Instructions:-
+First of all you should have installed python 3 on your system and the packages in the requirment.txt 
+should be downloaded.
+After this follow the below instructions.
+1)Put the DBScan.py and Moon.csv in the same folder
+2)Now,There are two methods to run DBscan.py,
+      i) Run using python IDE like pycharm
+	   If you are using IDE them import it in the IDE and run DBScan.py.After running
+           you will see three graphs will be print.
+      ii)Run from terminal
+	    Follow the following steps.
+            a)Save the DBscan.py and Moon.csv file in a folder in C drive.
+	    b)Open window terminal.
+            c)Change the working directory using command.ie cd C:\Users\hi\DBScanFolder
+	    d)Now run .py file using command i-e python DBScan.py 
